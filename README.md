@@ -1,4 +1,4 @@
-Hi 👋 My name is Kirill
+Hi 👋 
 =======================
 
 Developer
